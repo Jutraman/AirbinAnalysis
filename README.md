@@ -1,3 +1,3 @@
-# NLP
+# Airbin data ayalysis
 
-Now, Only one example for nlp.
+The Part1_2 is for data mining and the part3 is for simple nlp.
